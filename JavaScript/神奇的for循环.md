@@ -25,7 +25,7 @@ funcs.forEach( function ( func ) {
 
 打印出来的答案是：
 
-![](http:image.yidaqiang.cn/blog/js/for-1.png)
+![](http://image.yidaqiang.cn/blog/js/for-1.png)
 
 没想到吧！
 
@@ -35,17 +35,17 @@ funcs.forEach( function ( func ) {
 
 这里先解释一下，这段函数干了啥。这段代码主要就是构建了一个函数数组，存放了十个函数。再`for-each`遍历执行。
 
-![](http:image.yidaqiang.cn/blog/js/for-2.png)
+![](http://image.yidaqiang.cn/blog/js/for-2.png)
 
 然而在数组里面的函数体却是`console.log(i)`。这里的`i`是`for ( var i ; i < 10 ; i ++)`处的引用，可以理解为“这里的`i`”和`for`申明的的`i`是同一个变量。`for`循环结束`i`变为`10`也导致，数组里的每个函数的函数体`console.log(i)`里的`i`也都变为了`10`。
 
 断点查看一下：
 
-![](http:image.yidaqiang.cn/blog/js/for-3.png)
+![](http://image.yidaqiang.cn/blog/js/for-3.png)
 
 此时，`funcs`数组里有的一个函数。控制台执行这个函数。
 
-![](http:image.yidaqiang.cn/blog/js/for-4.png)
+![](http://image.yidaqiang.cn/blog/js/for-4.png)
 
 这时打印的值不是一开始的 0 ，而是 1 了。
 
