@@ -1,3 +1,9 @@
 atom/*.png
 
 *.pdf
+
+CAndC++/*.c
+CAndC++/*.exe
+hlep*.md
+
+test*
