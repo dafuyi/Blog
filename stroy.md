@@ -14,3 +14,13 @@ After knowing that, he wanted to destroying their relationship completely and ga
 
 Only few days later, he succeeded killing the man who had tried to avoid his death but failed.
 After that, he pretended to be the man and pursued the woman. Years later, they had a happy life with their children while the woman was not still aware of the truth that her husband was not the Martian.
+
+
+--------------------------
+
+
+To attend a vocational college or university? This is the question, athough it is never a dilemma like Hamlet ever faced. Since, graduated from middle school, These students are facing to choose a high school. Two chooses, one is vocational college, anthor is university. In my view, it better to go to university.
+
+I know many student prefer to student in a vocational college because it has less press and easier to graduate. What's more, vocational school can teach you a skill which they can live on it. Also, it's tuition cheaper then university's. Why I think should go to campus. First of all, what you can learn from class is different between the two. yse of cause, vocational college can teach you a living skill, but time is changing, you don't when your skill will become useless. So, you should learn how to learn new things, this is what university could give you. What else? I think the teacher who you will meet is anthor reason to study in university. In university, most of the teacher is doctor, and you will learn a lot from them.
+
+It's better to choose university.  
