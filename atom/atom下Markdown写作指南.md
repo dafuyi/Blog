@@ -41,7 +41,7 @@ npm install phantomjs-prebuilt
 ## 来来再添一碗饭
 安装之前应该保证有 node 环境，和 VC++。[参考][a004]
 
-[这里有更多有趣的插件。] [a002][客服热线][a005]
+[这里有更多有趣的插件。][a002] [客服热线][a005]
 
 [a001]:https://github.com/wizardforcel/markdown-simple-world/blob/master/1.md
 [a002]:https://github.com/kompasim/atom-plugins
