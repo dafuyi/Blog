@@ -37,7 +37,7 @@ A full stack web developer position where my coding skill, technology stack, tea
 
 ## Skills
 
--   Good at PHP and the framework Codeigniter. UnderStood What is MVC, Serveless and so on.
+-   Good at PHP and the framework Codeigniter. Understood What is MVC, Serveless and so on.
 -   React technology stack, NodeJS, Bootstrap UI framework
 -   With a strong spirit of teamwork.
 -   known Java and its design pattern.
